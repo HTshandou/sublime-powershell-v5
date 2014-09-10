@@ -5,5 +5,5 @@
 
 # Choose syntax
 Now you can choose syntax "Powershell v5".
-If you have original "Powershell v2" package, it still will be keepet as default for `.ps1, psm1, psd1` files. 
+If you have original "Powershell v2" package, it will be kept as default for `.ps1, psm1, psd1` files. 
 You may want to remove previous package.
