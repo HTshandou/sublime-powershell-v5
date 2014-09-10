@@ -1,6 +1,6 @@
 {
 	"fileTypes": ["ps1", "psm1", "psd1"],
-	"name": "Powershell v2",
+	"name": "Powershell v5",
 	"patterns": [
 		{
 			"begin": "<#",
@@ -388,5 +388,5 @@
 		}
 	},
 	"scopeName": "source.powershell",
-	"uuid": "f8f5ffb0-503e-11df-9879-0800200c9a66"
+	"uuid": "bf29c9cd-d64c-499e-8492-85461bc866b2"
 }

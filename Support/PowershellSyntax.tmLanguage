@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>fileTypes</key>
@@ -9,7 +9,7 @@
 		<string>psd1</string>
 	</array>
 	<key>name</key>
-	<string>Powershell v2</string>
+	<string>Powershell v5</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -211,7 +211,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(?i:if|else|elseif|switch|while|default|try|finally|catch|for|do|until|break|continue|foreach|return|filter|in|trap|throw|param|begin|process|end|function|global|local|private|script|contained)\b</string>
+			<string>\b(?i:if|else|elseif|switch|while|default|try|finally|catch|for|do|until|break|continue|foreach|return|filter|in|trap|throw|param|begin|process|end|function|global|local|private|script|contained|configuration|class)\b</string>
 			<key>name</key>
 			<string>keyword.control.powershell</string>
 		</dict>
@@ -610,6 +610,6 @@
 	<key>scopeName</key>
 	<string>source.powershell</string>
 	<key>uuid</key>
-	<string>f8f5ffb0-503e-11df-9879-0800200c9a66</string>
+	<string>bf29c9cd-d64c-499e-8492-85461bc866b2</string>
 </dict>
 </plist>
